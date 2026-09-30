@@ -1,0 +1,3 @@
+{"_id":{"$oid":"6abd811d655b8b4c3a090337"},"descripcion":"mercado semanal","monto":128000,"categoria":"alimentacion","fecha":{"$date":"2026-09-30T16:35:00.000Z"}}
+{"_id":{"$oid":"6abd8138655b8b4c3a090339"},"descripcion":"mercado semanal","monto":128000,"categoria":"alimentacion"}
+{"_id":{"$oid":"6abd8138655b8b4c3a09033a"},"descripcion":"bus","monto":5000,"categoria":"transporte"}
